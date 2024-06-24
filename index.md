@@ -1,6 +1,4 @@
 ## Yiyang Yuan (袁易扬)
-![](https://img2022.cnblogs.com/blog/1815493/202209/1815493-20220921203646158-1732854269.png)
-
 ## Research Interests
 Compute-In-Memory, Resistive Random Access Memory, Artificial Intelligence, Brain-Machine Interface
 
@@ -34,3 +32,5 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 ## Contact
 - Address: 3 Beitucheng West Road, Chaoyang District, Beijing, PR China
 - Email: yuanyiyang@ime.ac.cn
+
+- My blog on Cnblog: [sasasatori - 博客园 (cnblogs.com)](https://www.cnblogs.com/sasasatori)
