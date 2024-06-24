@@ -1,123 +1,36 @@
----
-layout: default
----
+## Yiyang Yuan (袁易扬)
+![](https://img2022.cnblogs.com/blog/1815493/202209/1815493-20220921203646158-1732854269.png)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Research Interests
+Compute-In-Memory, Resistive Random Access Memory, Artificial Intelligence, Brain-Machine Interface
 
-[Link to another page](./another-page.html).
+## Education
 
-There should be whitespace between paragraphs.
+Sep. 2021 - now : **Institute of Microelectronics of the Chinese Academy of Sciences**
+- **Ph.D.** in Microelectronics and Solid State Electronics
+- Advisor: Prof. [Feng Zhang](https://ime.cas.cn/sourcedb/zw/zjrck/201706/t20170609_4810760.html)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
+- **B.S.** in Electronic Information Engineering
 
-# Header 1
+## Publications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Wu. H. ; Cheng, Y. ; **Yuan, Y.**; Yue, J.; Li, X.; Wang, X.; Zhang, F.  "A 28-nm 19.9-to-258.5-TOPS/W 8b Digital Computing-in-Memory Processor With Two-Cycle Macro Featuring Winograd-Domain Convolution and Macro-Level Parallel Dual-Side Sparsity," in IEEE Journal of Solid-State Circuits, [doi: 10.1109/JSSC.2024.3409356.](https://ieeexplore.ieee.org/document/10562243)
 
-## Header 2
+- **Yuan, Y.**; Yang, Y.; Wang, X.; Li, X.; Ma, C.; Chen, Q.; Tang, M.; Wei, X.; Hou, Z.; Zhu, J.; Wu, H.; Ren, Q.; Xing, G.; Mak, P.; Zhang, F. A 28nm 72.12TFLOPS/W Hybrid-Domain Outer-Product Based   Floating-Point SRAM Computing-in-Memory Macro with Logarithm Bit-Width Residual ADC, International Solid State Circuit Conference(ISSCC), 2024, 34.6; [doi: 10.1109/ISSCC49657.2024.10454313.](https://ieeexplore.ieee.org/abstract/document/10454313)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Wu. H. ; Cheng, Y. ; **Yuan, Y.**; Yue, J.; Fu, X. Ren, Q.; Luo, Q.; Mak, P.; Wang, X.; Zhang, F. A 28-nm Computing-in-Memory-Based Super-Resolution Accelerator Incorporating Macro-Level Pipeline and Texture/Algebraic Sparsity, in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023, https://doi.org/10.1109/TCSI.2023.3325850
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- Huo, Q.; Yang, Y.; Wang, Y.; Lei, D.; Fu, X.; Ren, Q.; Xu, X.; Qing, L.; Xing, G.; Chen, C.; Si, X.; Wu, H.; **Yuan Y.**; Li, Q.; Li, X.; Wang, X.; Chang, M.; Zhang, F.; Liu M. A computing-in-memory macro based on three-dimensional resistive random-access memory. Nat Electron 5, 469–477 (2022). https://doi.org/10.1038/s41928-022-00795-x
 
 
-### Definition lists can be used with HTML syntax.
+## Honors and Awards
+- [RoboMaster Robotics Competition](https://www.robomaster.com/zh-CN), North China Region First Award, National Second Award, Team Leader (2021)
+- [China College FPGA Innovation Competition](http://fpga.icisc.cn/), National Second Award, Team Leader (2020)
+- [China College Integrated Circuit Competition](http://univ.ciciec.com/col.jsp?id=110), North China Region First Award, National First Grand Award, Team Leader (2020)
+- [RoboMaster Robotics Competition](https://www.robomaster.com/zh-CN), North China Region Second Award, National Third Award (2019)
+- BIT Merit Student (2018)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Contact
+- Address: 3 Beitucheng West Road, Chaoyang District, Beijing, PR China
+- Email: yuanyiyang@ime.ac.cn
