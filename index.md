@@ -17,9 +17,9 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 - **Yuan, Y.**; Yang, Y.; Wang, X.; Li, X.; Ma, C.; Chen, Q.; Tang, M.; Wei, X.; Hou, Z.; Zhu, J.; Wu, H.; Ren, Q.; Xing, G.; Mak, P.; Zhang, F. A 28nm 72.12TFLOPS/W Hybrid-Domain Outer-Product Based   Floating-Point SRAM Computing-in-Memory Macro with Logarithm Bit-Width Residual ADC, International Solid State Circuit Conference(ISSCC), 2024, 34.6; [doi: 10.1109/ISSCC49657.2024.10454313.](https://ieeexplore.ieee.org/abstract/document/10454313)
 
-- Wu. H. ; Cheng, Y. ; **Yuan, Y.**; Yue, J.; Fu, X. Ren, Q.; Luo, Q.; Mak, P.; Wang, X.; Zhang, F. A 28-nm Computing-in-Memory-Based Super-Resolution Accelerator Incorporating Macro-Level Pipeline and Texture/Algebraic Sparsity, in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023, https://doi.org/10.1109/TCSI.2023.3325850
+- Wu. H. ; Cheng, Y. ; **Yuan, Y.**; Yue, J.; Fu, X. Ren, Q.; Luo, Q.; Mak, P.; Wang, X.; Zhang, F. A 28-nm Computing-in-Memory-Based Super-Resolution Accelerator Incorporating Macro-Level Pipeline and Texture/Algebraic Sparsity, in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023, [doi:10.1109/TCSI.2023.3325850.](https://doi.org/10.1109/TCSI.2023.3325850)
 
-- Huo, Q.; Yang, Y.; Wang, Y.; Lei, D.; Fu, X.; Ren, Q.; Xu, X.; Qing, L.; Xing, G.; Chen, C.; Si, X.; Wu, H.; **Yuan Y.**; Li, Q.; Li, X.; Wang, X.; Chang, M.; Zhang, F.; Liu M. A computing-in-memory macro based on three-dimensional resistive random-access memory. Nat Electron 5, 469–477 (2022). https://doi.org/10.1038/s41928-022-00795-x
+- Huo, Q.; Yang, Y.; Wang, Y.; Lei, D.; Fu, X.; Ren, Q.; Xu, X.; Qing, L.; Xing, G.; Chen, C.; Si, X.; Wu, H.; **Yuan Y.**; Li, Q.; Li, X.; Wang, X.; Chang, M.; Zhang, F.; Liu M. A computing-in-memory macro based on three-dimensional resistive random-access memory. Nat Electron 5, 469–477 (2022). [doi:10.1038/s41928-022-00795-x.](https://doi.org/10.1038/s41928-022-00795-x)
 
 
 ## Honors and Awards
