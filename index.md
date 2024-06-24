@@ -24,7 +24,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 ## Honors and Awards
 - [RoboMaster Robotics Competition](https://www.robomaster.com/zh-CN), North China Region First Award, National Second Award, Team Leader (2021)
-- [China College FPGA Innovation Competition](http://fpga.icisc.cn/), National Second Award, Team Leader (2020)
+- [China College FPGA Innovation Competition](http://www.fpgachina.cn/index), National Second Award, Team Leader (2020)
 - [China College Integrated Circuit Competition](http://univ.ciciec.com/col.jsp?id=110), North China Region First Award, National First Grand Award, Team Leader (2020)
 - [RoboMaster Robotics Competition](https://www.robomaster.com/zh-CN), North China Region Second Award, National Third Award (2019)
 - BIT Merit Student (2018)
