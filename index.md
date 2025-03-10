@@ -15,7 +15,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 ## Publications
 
-- **Yuan, Y.**; Zhang, B.; Yang, Y.; Luo, Y.; Chen, Q.; Lv, S.; Wu, H.; Ma, C.; Li, M.; Yue, J. ; Xing, G.; Mak, P.; Li, X.; Zhang, F. "A 28nm 192.3TFLOPS/W Accurate/Approximate Dual-Mode Transpose Digital 6T-SRAM CIM Macro for Floating-Point Edge Training and Inference", International Solid State Circuit Conference(ISSCC), 2025, 14.5;
+- **Yuan, Y.**; Zhang, B.; Yang, Y.; Luo, Y.; Chen, Q.; Lv, S.; Wu, H.; Ma, C.; Li, M.; Yue, J. ; Xing, G.; Mak, P.; Li, X.; Zhang, F. "A 28nm 192.3TFLOPS/W Accurate/Approximate Dual-Mode Transpose Digital 6T-SRAM CIM Macro for Floating-Point Edge Training and Inference", International Solid State Circuit Conference(ISSCC), 2025, 14.5; DOI: 10.1109/ISSCC49661.2025.10904659
 
 - Zhu, J.; **Yuan, Y.**; Nie, L.; Tang, W.; Li, M; Wu, H.; Zhao, X.; Xing, G.; Zhang, F. "A 28nm 75.6KOPS 13nJ Computing-in-Memory Pipeline Number Theoretic Transform Accelerator for PQC", DOI: 10.1109/TCSII.2024.3481996
 
