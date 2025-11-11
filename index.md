@@ -15,7 +15,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 ## Publications
 
-- Yang, Y.*; **<u>Yuan, Y.\*</u>**; Wang, X.; Li, X.; Wu, H.; Liu, Q.; Tang, W.; Fu, X.; Zhang, F. "A Multicore Programmable Variable-Precision Near-Memory Accelerator for CNN and Transformer Models", in IEEE Journal of Solid-State Circuits, 2025, DOI: 10.1109/JSSC.2025.3624011.
+- Yang, Y.*; **<u>Yuan, Y.</u>**\*; Wang, X.; Li, X.; Wu, H.; Liu, Q.; Tang, W.; Fu, X.; Zhang, F. "A Multicore Programmable Variable-Precision Near-Memory Accelerator for CNN and Transformer Models", in IEEE Journal of Solid-State Circuits, 2025, DOI: 10.1109/JSSC.2025.3624011.
 
 - Wu, H.; Cheng, Y.; Li, M.; Zhang, B.; Zhang, R.; **<u>Yuan, Y.</u>**; Yang, Y.; Yue, J.; Wang, X.; Li, X.; Zhang, F. "A 28-nm 88.3-TFLOPS/W POSIT-Approximate-Calculation-Based Digital Computing-in-Memory Macro Incorporating Final-Cycle Fusion and Joint Skipping", in IEEE Journal of Solid-State Circuits, 2025, DOI: 10.1109/JSSC.2025.3590632.
 
