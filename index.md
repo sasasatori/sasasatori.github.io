@@ -1,6 +1,6 @@
 ## Yiyang Yuan (袁易扬)
 ## Research Interests
-Computing-In-Memory, RISC-V, Artificial Intelligence Accelerator, Embodied Intelligence
+Computing-In-Memory, RISC-V, AI Accelerator, Embodied Intelligence
 
 ## Education
 
