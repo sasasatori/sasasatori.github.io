@@ -23,9 +23,9 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 - Zhu, J.;**<u>Yuan, Y.</u>**; Nie, L.; Tang, W.; Li, M; Wu, H.; Zhao, X.; Xing, G.; Zhang, F. "A 28nm 75.6KOPS 13nJ Computing-in-Memory Pipeline Number Theoretic Transform Accelerator for PQC", in IEEE Transactions on Circuits and Systems II: Express Briefs, 2024, DOI: 10.1109/TCSII.2024.3481996
 
-- Wu, H.; Cheng, Y.; **<u>Yuan, Y.</u>**; Yue, J.; Li, X.; Wang, X.; Zhang, F. "A 28-nm 19.9-to-258.5-TOPS/W 8b Digital Computing-in-Memory Processor With Two-Cycle Macro Featuring Winograd-Domain Convolution and Macro-Level Parallel Dual-Side Sparsity", in IEEE Journal of Solid-State Circuits, 2024, DOI: 10.1109/JSSC.2024.3409356.
+- Wu, H.; Cheng, Y.; **<u>Yuan, Y.</u>**; Yue, J.; Li, X.; Wang, X.; Zhang, F. "A 28-nm 19.9-to-258.5-TOPS/W 8b Digital Computing-in-Memory Processor With Two-Cycle Macro Featuring Winograd-Domain Convolution and Macro-Level Parallel Dual-Side Sparsity", in IEEE Journal of Solid-State Circuits, 2024, DOI: 10.1109/JSSC.2024.3409356
 
-- **<u>Yuan, Y.</u>**; Yang, Y.; Wang, X.; Li, X.; Ma, C.; Chen, Q.; Tang, M.; Wei, X.; Hou, Z.; Zhu, J.; Wu, H.; Ren, Q.; Xing, G.; Mak, P.; Zhang, F. "A 28nm 72.12TFLOPS/W Hybrid-Domain Outer-Product Based Floating-Point SRAM Computing-in-Memory Macro with Logarithm Bit-Width Residual ADC", in International Solid State Circuit Conference, 2024, DOI: 10.1109/ISSCC49657.2024.10454313.
+- **<u>Yuan, Y.</u>**; Yang, Y.; Wang, X.; Li, X.; Ma, C.; Chen, Q.; Tang, M.; Wei, X.; Hou, Z.; Zhu, J.; Wu, H.; Ren, Q.; Xing, G.; Mak, P.; Zhang, F. "A 28nm 72.12TFLOPS/W Hybrid-Domain Outer-Product Based Floating-Point SRAM Computing-in-Memory Macro with Logarithm Bit-Width Residual ADC", in International Solid State Circuit Conference, 2024, DOI: 10.1109/ISSCC49657.2024.10454313
 
 - Wu. H.; Cheng, Y.; **<u>Yuan, Y.</u>**; Yue, J.; Fu, X.; Ren, Q.; Luo, Q.; Mak, P.; Wang, X.; Zhang, F. "A 28-nm Computing-in-Memory-Based Super-Resolution Accelerator Incorporating Macro-Level Pipeline and Texture/Algebraic Sparsity", in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023, DOI: 10.1109/TCSI.2023.3325850
 
