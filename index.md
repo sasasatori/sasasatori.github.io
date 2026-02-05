@@ -29,7 +29,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 - Wu. H.; Cheng, Y.; **<u>Yuan, Y.</u>**; Yue, J.; Fu, X.; Ren, Q.; Luo, Q.; Mak, P.; Wang, X.; Zhang, F. "A 28-nm Computing-in-Memory-Based Super-Resolution Accelerator Incorporating Macro-Level Pipeline and Texture/Algebraic Sparsity", in IEEE Transactions on Circuits and Systems I: Regular Papers, 2023, DOI: 10.1109/TCSI.2023.3325850
 
-- Huo, Q.; Yang, Y.; Wang, Y.; Lei, D.; Fu, X.; Ren, Q.; Xu, X.; Qing, L.; Xing, G.; Chen, C.; Si, X.; Wu, H.; **<u>Yuan Y.</u>**; Li, Q.; Li, X.; Wang, X.; Chang, M.; Zhang, F.; Liu M. "A computing-in-memory macro based on three-dimensional resistive random-access memory", in Nature Electronics, 2022, DOI: 10.1038/s41928-022-00795-x
+- Huo, Q.; Yang, Y.; Wang, Y.; Lei, D.; Fu, X.; Ren, Q.; Xu, X.; Qing, L.; Xing, G.; Chen, C.; Si, X.; Wu, H.; **<u>Yuan, Y.</u>**; Li, Q.; Li, X.; Wang, X.; Chang, M.; Zhang, F.; Liu M. "A computing-in-memory macro based on three-dimensional resistive random-access memory", in Nature Electronics, 2022, DOI: 10.1038/s41928-022-00795-x
 
 
 ## Honors and Awards
