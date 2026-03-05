@@ -15,7 +15,9 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 ## Publications
 
-- Yang, Y.*; **<u>Yuan, Y.</u>**\*; Wang, X.; Li, X.; Wu, H.; Liu, Q.; Tang, W.; Fu, X.; Zhang, F. "A Multicore Programmable Variable-Precision Near-Memory Accelerator for CNN and Transformer Models", in IEEE Journal of Solid-State Circuits, 2025, DOI: 10.1109/JSSC.2025.3624011.
+- **Yuan, Y.**; Sun, Z.; Yang, Y.; Wang, X.; Li, X.; Ma, C.; Chen, Q.; Tang, M.; Wei, X.; Wu, H.; Wang, H.; Liu, Q.; Chen, C.; Yue, J.; Mak, P.; Zhang, F. "A 28-nm Hybrid-Domain Outer Product-Based Floating-Point SRAM Computing-in-Memory Macro With Logarithm Bit-Width Residual ADC for Edge AI," in IEEE Journal of Solid-State Circuits, 2026, DOI: 10.1109/JSSC.2026.3668132
+
+- Yang, Y.*; **<u>Yuan, Y.</u>**\*; Wang, X.; Li, X.; Wu, H.; Liu, Q.; Tang, W.; Fu, X.; Zhang, F. "A Multicore Programmable Variable-Precision Near-Memory Accelerator for CNN and Transformer Models", in IEEE Journal of Solid-State Circuits, 2025, DOI: 10.1109/JSSC.2025.3624011. (\* Equally contributed authors)
 
 - Wu, H.; Cheng, Y.; Li, M.; Zhang, B.; Zhang, R.; **<u>Yuan, Y.</u>**; Yang, Y.; Yue, J.; Wang, X.; Li, X.; Zhang, F. "A 28-nm 88.3-TFLOPS/W POSIT-Approximate-Calculation-Based Digital Computing-in-Memory Macro Incorporating Final-Cycle Fusion and Joint Skipping", in IEEE Journal of Solid-State Circuits, 2025, DOI: 10.1109/JSSC.2025.3590632.
 
