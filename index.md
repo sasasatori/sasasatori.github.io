@@ -41,7 +41,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 - Chinese Academy of Sciences President's Scholarship (2025)
 
-- UCAS Merit Student (2024, 2025)
+- UCAS Merit Student (2023, 2024)
 
 - RoboMaster Robotics Competition, North China Region First Award, National Second Award, Team Leader (2021)
 
