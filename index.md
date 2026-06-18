@@ -15,9 +15,9 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 ## Publications
 
-- **<u>Yuan, Y.</u>**; Zhang, B.; Yang, Y.; Luo, Y.; Chen, Q.; Wang, H.; Liu, Q.; Chen, Z.; Wu, H.; Yue, J.; Lv, S.; Wang, X.; Mak, P.; Li, X.; Zhang, F. "A 28-nm Digital Transpose SRAM Compute-in-Memory Macro With Accurate/Approximate Dual Mode for Floating-Point Edge Training and Inference," in IEEE Journal of Solid-State Circuits, 2026, DOI: 10.1109/JSSC.2026.3679560
+- **<u>Yuan, Y.</u>**; Zhang, B.; Yang, Y.; Luo, Y.; Chen, Q.; Wang, H.; Liu, Q.; Chen, Z.; Wu, H.; Yue, J.; Lv, S.; Wang, X.; Mak, P.; Li, X.; Zhang, F. "A 28-nm Digital Transpose SRAM Compute-in-Memory Macro With Accurate/Approximate Dual Mode for Floating-Point Edge Training and Inference", in IEEE Journal of Solid-State Circuits, 2026, DOI: 10.1109/JSSC.2026.3679560
 
-- **<u>Yuan, Y.</u>**; Sun, Z.; Yang, Y.; Wang, X.; Li, X.; Ma, C.; Chen, Q.; Tang, M.; Wei, X.; Wu, H.; Wang, H.; Liu, Q.; Chen, C.; Yue, J.; Mak, P.; Zhang, F. "A 28-nm Hybrid-Domain Outer Product-Based Floating-Point SRAM Computing-in-Memory Macro With Logarithm Bit-Width Residual ADC for Edge AI," in IEEE Journal of Solid-State Circuits, 2026, DOI: 10.1109/JSSC.2026.3668132
+- **<u>Yuan, Y.</u>**; Sun, Z.; Yang, Y.; Wang, X.; Li, X.; Ma, C.; Chen, Q.; Tang, M.; Wei, X.; Wu, H.; Wang, H.; Liu, Q.; Chen, C.; Yue, J.; Mak, P.; Zhang, F. "A 28-nm Hybrid-Domain Outer Product-Based Floating-Point SRAM Computing-in-Memory Macro With Logarithm Bit-Width Residual ADC for Edge AI", in IEEE Journal of Solid-State Circuits, 2026, DOI: 10.1109/JSSC.2026.3668132
 
 - Yang, Y.*; **<u>Yuan, Y.</u>**\*; Wang, X.; Li, X.; Wu, H.; Liu, Q.; Tang, W.; Fu, X.; Zhang, F. "A Multicore Programmable Variable-Precision Near-Memory Accelerator for CNN and Transformer Models", in IEEE Journal of Solid-State Circuits, 2025, DOI: 10.1109/JSSC.2025.3624011. (\* Equally contributed authors)
 
@@ -37,6 +37,9 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 
 ## Honors and Awards
+- Outstanding Doctoral Graduate of Beijing (2026)
+
+- Outstanding Doctoral Graduate of the Chinese Academy of Sciences (2026)
 - National Scholarship (2025)
 
 - Chinese Academy of Sciences President's Scholarship (2025)
