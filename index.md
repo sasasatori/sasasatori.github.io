@@ -25,7 +25,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 - **<u>Yuan, Y.</u>**; Zhang, B.; Yang, Y.; Luo, Y.; Chen, Q.; Lv, S.; Wu, H.; Ma, C.; Li, M.; Yue, J.; Wang, X.; Xing, G.; Mak, P.; Li, X.; Zhang, F. "A 28nm 192.3TFLOPS/W Accurate/Approximate Dual-Mode Transpose Digital 6T-SRAM CIM Macro for Floating-Point Edge Training and Inference", in International Solid State Circuit Conference, 2025, DOI: 10.1109/ISSCC49661.2025.10904659
 
-- Zhu, J.;**<u>Yuan, Y.</u>**; Nie, L.; Tang, W.; Li, M; Wu, H.; Zhao, X.; Xing, G.; Zhang, F. "A 28nm 75.6KOPS 13nJ Computing-in-Memory Pipeline Number Theoretic Transform Accelerator for PQC", in IEEE Transactions on Circuits and Systems II: Express Briefs, 2024, DOI: 10.1109/TCSII.2024.3481996
+- Zhu, J.; **<u>Yuan, Y.</u>**; Nie, L.; Tang, W.; Li, M; Wu, H.; Zhao, X.; Xing, G.; Zhang, F. "A 28nm 75.6KOPS 13nJ Computing-in-Memory Pipeline Number Theoretic Transform Accelerator for PQC", in IEEE Transactions on Circuits and Systems II: Express Briefs, 2024, DOI: 10.1109/TCSII.2024.3481996
 
 - Wu, H.; Cheng, Y.; **<u>Yuan, Y.</u>**; Yue, J.; Li, X.; Wang, X.; Zhang, F. "A 28-nm 19.9-to-258.5-TOPS/W 8b Digital Computing-in-Memory Processor With Two-Cycle Macro Featuring Winograd-Domain Convolution and Macro-Level Parallel Dual-Side Sparsity", in IEEE Journal of Solid-State Circuits, 2024, DOI: 10.1109/JSSC.2024.3409356
 
