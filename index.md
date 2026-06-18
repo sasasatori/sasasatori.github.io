@@ -40,6 +40,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 - Outstanding Doctoral Graduate of Beijing (2026)
 
 - Outstanding Doctoral Graduate of the Chinese Academy of Sciences (2026)
+
 - National Scholarship (2025)
 
 - Chinese Academy of Sciences President's Scholarship (2025)
