@@ -67,8 +67,8 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 - BIT Merit Student (2018)
 
 ## Contact
-- Address: 3 Beitucheng West Road, Chaoyang District, Beijing, PR China
+- WeChat: satori_990830
 
-- Email: yuanyiyang@ime.ac.cn
+- Email: 2861704773@qq.com
 
 - Blog: [sasasatori - 博客园 (cnblogs.com)](https://www.cnblogs.com/sasasatori)
