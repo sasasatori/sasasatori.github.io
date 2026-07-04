@@ -1,5 +1,14 @@
 ## Yiyang Yuan (袁易扬)
+## Self Introduction
+
+I am currently a Postdoctoral Researcher in the [JC STEM FACT Lab](https://fact-lab.hkust.edu.hk/) within the Department of Electronic and Computer Engineering at HKUST, working under the supervision of Prof. [Yuan Xie](https://fact-lab.hkust.edu.hk/authors/yuan-xie/). My research focuses on Computing-in-Memory, RISC-V, AI Accelerator, and Embodied Intelligence.
+
+I received the B.S. degree in Electronic Information Engineering from Beijing Institute of Technology (BIT), Beijing, China, in 2021, and the Ph.D. degree in Microelectronics and Solid-State Electronics from the Institute of Microelectronics of the Chinese Academy of Sciences, University of Chinese Academy of Sciences (UCAS), Beijing, China, in 2026. During my doctoral research, supervised by Prof. [Feng Zhang](https://ime.cas.cn/sourcedb/zw/zjrck/201706/t20170609_4810760.html), I focused on SRAM-based Computing-in-Memory circuits and systems design for energy-efficient edge AI applications.
+
+I have published 10+ papers in leading venues including ISSCC, JSSC, and TCAS, with 5 first-author publications in JSSC and ISSCC. I was selected for the ByteDance Soaring Star Talent Program in 2025. I received the National Scholarship and the Chinese Academy of Sciences President’s Scholarship in 2025, outstanding graduate of University of Chinese Academy of Sciences and outstanding graduate of Beijing in 2026. I also serves as a reviewer for leading IEEE journals including JSSC, TCAS, and TVLSI.
+
 ## Research Interests
+
 Computing-In-Memory, RISC-V, AI Accelerator, Embodied Intelligence
 
 ## Education
@@ -45,7 +54,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 - Chinese Academy of Sciences President's Scholarship (2025)
 
-- UCAS Merit Student (2023, 2024)
+- UCAS Merit Student (2023, 2024, 2025)
 
 - RoboMaster Robotics Competition, North China Region First Award, National Second Award, Team Leader (2021)
 
