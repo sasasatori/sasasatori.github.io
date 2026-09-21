@@ -17,8 +17,6 @@ Sep. 2021 - now : **Institute of Microelectronics of the Chinese Academy of Scie
 
 - **Ph.D.** in Microelectronics and Solid State Electronics
 
-- Advisor: Prof. [Feng Zhang](https://ime.cas.cn/sourcedb/zw/zjrck/201706/t20170609_4810760.html)
-
 Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 - **B.S.** in Electronic Information Engineering
 
