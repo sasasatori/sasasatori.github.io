@@ -69,8 +69,8 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 - BIT Merit Student (2018)
 
 ## Contact
-- WeChat: satori_990830
+- Address: Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong SAR, China
 
-- Email: 2861704773@qq.com
+- Email: eesatori@ust.hk
 
 - Blog: [sasasatori - 博客园 (cnblogs.com)](https://www.cnblogs.com/sasasatori)
