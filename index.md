@@ -24,7 +24,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 
 ## Publications
 
-- Gan, S.; <u>**Yuan, Y.**</u>; Lin, W.; Lei, D.; Zhang, F.; Liu, Y. "An Energy-Efficient GPS Acquisition Macro Using Accurate Approximate SRAM-PIM for Low-Power GNSS Applications", in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2026, DOI: 10.1109/TVLSI.2026.3705459
+- Gan, S.; **<u>Yuan, Y.</u>**; Lin, W.; Lei, D.; Zhang, F.; Liu, Y. "An Energy-Efficient GPS Acquisition Macro Using Accurate Approximate SRAM-PIM for Low-Power GNSS Applications", in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2026, DOI: 10.1109/TVLSI.2026.3705459
 
 - **<u>Yuan, Y.</u>**; Zhang, B.; Yang, Y.; Luo, Y.; Chen, Q.; Wang, H.; Liu, Q.; Chen, Z.; Wu, H.; Yue, J.; Lv, S.; Wang, X.; Mak, P.; Li, X.; Zhang, F. "A 28-nm Digital Transpose SRAM Compute-in-Memory Macro With Accurate/Approximate Dual Mode for Floating-Point Edge Training and Inference", in IEEE Journal of Solid-State Circuits, 2026, DOI: 10.1109/JSSC.2026.3679560
 
