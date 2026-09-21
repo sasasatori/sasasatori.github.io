@@ -69,7 +69,7 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 - BIT Merit Student (2018)
 
 ## Contact
-- Address: Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong SAR, China
+- Address: Clear Water Bay, Kowloon, Hong Kong, China
 
 - Email: eesatori@ust.hk
 
