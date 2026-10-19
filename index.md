@@ -72,3 +72,5 @@ Sep. 2017 - Jun. 2021: **Beijing Institute of Technology**
 - Email: eesatori@ust.hk
 
 - Blog: [sasasatori - 博客园 (cnblogs.com)](https://www.cnblogs.com/sasasatori)
+
+- Google Scholar: [Yiyang Yuan](https://scholar.google.com/citations?user=YIQuxo4AAAAJ)
